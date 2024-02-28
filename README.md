@@ -1,6 +1,6 @@
 # CountingTriangles
 
-Map-Reduce algorithm to count triangles in Social Graphs
+Confront algorithm implementation of Mining Massive Datasets Book to count triangles, with standard object of GraphFrames library.
 
 ## How to Run
 
